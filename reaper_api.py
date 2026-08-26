@@ -1,4 +1,3 @@
-%%writefile reaper_api.py
 import os
 import uuid
 import shutil
